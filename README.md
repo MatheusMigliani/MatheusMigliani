@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Meu nome é  Matheus Migliani😎 </h1>
-<h2 align="center">Desenvolvedor com experiência em web e mobile, em aprimoramento constante.</h2>
+<h2 align="center">Desenvolvedor com experiência em web e mobile, e em aprimoramento constante.</h2>
 
 
 
