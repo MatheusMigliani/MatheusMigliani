@@ -61,7 +61,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusMigliani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
-  ![MatheusMigliani's Stats](https://github-readme-stats.vercel.app/api?username=MatheusMigliani&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusMigliani&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="languages graph"  />
 </div>
 
 ###
